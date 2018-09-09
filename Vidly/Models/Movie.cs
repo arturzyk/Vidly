@@ -7,5 +7,6 @@ namespace Vidly.Models
 {
     public class Movie
     {
+        private int testVar = 1;
     }
 }
